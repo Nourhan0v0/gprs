@@ -3,3 +3,7 @@ numpy
 pandas
 pydeck
 streamlit
+opencv-python-headless
+fitz
+opencv-python
+pillow
